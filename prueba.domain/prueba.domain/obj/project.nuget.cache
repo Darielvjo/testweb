@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KirbeYGt5dom5YWLkra9UVqg18zN54vtNTKQxX1ODmTLPq5ral3zHgwPu4wM7b51rj2+kD19eIeiTRp0McgE3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dariel\\OneDrive\\Desktop\\prueba\\prueba.domain\\prueba.domain\\prueba.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dariel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Dariel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Dariel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
